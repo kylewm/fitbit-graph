@@ -1,0 +1,1 @@
+Ahy data collected by this application will only be available to the authorizing user.
